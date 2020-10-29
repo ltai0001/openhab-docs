@@ -130,7 +130,7 @@ With that, we can create now the items on our things manually.
 To do that, go back to "John's Mobile". 
 You see that the previous items - which were created manually - remain untouched by disabling simple mode.
 
-If you now click on the blue button before the channel name the you will see all items that are linked to this channel. 
+If you now click on the blue button before the channel name then you will see all items that are linked to this channel. 
 The highlighted item is the automatically created item when simple mode was switched on.
 ![](images/create_item_1.png)
 
